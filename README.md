@@ -62,5 +62,5 @@ This repository contains the code and results for comparing **LSGAN, WGAN, and W
   - **WGAN-GP struggled with stability**, leading to inconsistent gains.  
 
 ---  
-📖 **Read the full blog post:** [Medium Link]  
+📖 **Read the full blog post:** [Medium Link](https://medium.com/@rheachainani/50462c7850ab)
 
